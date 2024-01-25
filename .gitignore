@@ -1,0 +1,12 @@
+# Data files
+*.json
+*.pdf
+*.txt
+*.html
+*.csv
+*.logs
+.env
+
+# Non-code folders
+outputs/
+__pycache__/
